@@ -1,0 +1,29 @@
+.con{
+    background-color: #c1c1c1   ;
+    height: 100vh;
+}
+.grey{
+    background-color: orange;
+    height: 20vh;
+}
+.orange{
+    background-color: chartreuse;
+    height: 20vh;;
+}
+.blue{
+    background-color: blue;
+    height: 200px;
+}
+.green{
+    background-color: green;
+    height: 200px;
+}
+.rowheight{
+    background-color: burlywood;
+    height: 200px;
+}
+
+.row{
+    text-align: center;
+    color: cornsilk;
+}

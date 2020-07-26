@@ -1,0 +1,59 @@
+body{
+    background: url(../sunset.jpg) no-repeat center center fixed;
+    background-size: cover;
+    display: block;
+}
+
+.btn{
+    background-color: transparent;
+    color: white;
+    margin-top: 50px;
+    border: 3px solid;
+}
+
+.signing #signup{
+    float: right;
+    margin-right: 15%;
+
+}
+
+.signing #signin{
+    float: left;
+}
+
+.btn:hover{
+    color: violet;
+} 
+
+.texting{
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+
+.texting h1{
+    font-size: 50px;
+}
+
+.texting h3{
+
+}
+form{
+    position: relative;
+    float: right;
+    margin-top: 17%;
+    margin-left: 25%;
+}
+
+.form-control{
+    margin: 10px;
+    margin-top: 5px;
+}
+
+#go{
+    background-color: blanchedalmond;
+    color: black;
+    border: none;
+}
+

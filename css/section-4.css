@@ -1,0 +1,24 @@
+.con{
+    margin-top: 50px;
+    background-color: white;
+    height: 100vh;
+}
+
+.break{
+    background-color: darkorange;
+    height: 10px;
+    margin: 50px;
+}
+
+.btn{
+    margin: 25px;
+}
+
+h1{
+    text-align: center;
+}
+
+.jumbotron{
+    background-color: forestgreen;
+    color: white;
+}

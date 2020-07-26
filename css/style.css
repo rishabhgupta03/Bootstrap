@@ -1,0 +1,24 @@
+body{
+    background: url(../images/sunset.jpg)no-repeat center center fixed;
+    background-color: turquoise;
+    background-size: cover;
+}
+
+
+.text-center{
+    color: white;
+}
+
+#img_logo{
+    max-height: 350px;
+    max-width: 350px;
+    margin: auto;
+}
+
+#login-modal .modal-dialog{
+    width: 350px;
+}
+
+#login-modal input[type=text], input[type=password]{
+    margin: auto;
+}
